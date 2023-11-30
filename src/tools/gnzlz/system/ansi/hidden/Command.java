@@ -1,4 +1,4 @@
-package tools.gnzlz.system.ansi;
+package tools.gnzlz.system.ansi.hidden;
 
 public enum Command {
 

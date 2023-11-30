@@ -1,5 +1,7 @@
 package tools.gnzlz.system.ansi;
 
+import tools.gnzlz.system.ansi.hidden.Command;
+
 public enum Color {
 
     /**
